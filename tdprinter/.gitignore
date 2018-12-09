@@ -1,0 +1,9 @@
+build
+*.bak
+*.obj
+*.dep
+*.uvgui.*
+/JLinkLog.txt
+/*.uvopt
+*.uvopt
+JLinkLog.txt
